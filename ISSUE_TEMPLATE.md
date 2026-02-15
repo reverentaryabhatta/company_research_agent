@@ -1,0 +1,1 @@
+This repo is populated by the Company Research Agent. Issues created here are research briefs and findings.
